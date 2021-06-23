@@ -13,6 +13,7 @@
     color: white;
     font-size: 20px;
     padding: 20px;
+    height: 75%;
 }
 
 #rec2{
@@ -20,6 +21,7 @@
     color: white;
     font-size: 20px;
     padding: 20px;
+    height: 75%;
 }
 
 #rec3{
@@ -27,6 +29,7 @@
     color: white;
     font-size: 20px;
     padding: 20px;
+    height: 75%;
 }
 
 #rec4{
@@ -34,6 +37,7 @@
     color: white;
     font-size: 20px;
     padding: 20px;
+    height: 75%;
 }
 
 #rec5{
@@ -41,6 +45,7 @@
     color: white;
     font-size: 20px;
     padding: 20px;
+    height: 20%;
 }
 
 #rec6{
@@ -48,6 +53,7 @@
     color: white;
     font-size: 20px;
     padding: 20px;
+    height: 20%;
 }
 
 #rec7{
@@ -55,6 +61,7 @@
     color: white;
     font-size: 20px;
     padding: 20px;
+    height: 20%;
 }
 
 #rec8{
@@ -62,9 +69,32 @@
     color: white;
     font-size: 20px;
     padding: 20px;
+    height: 30%;
 }
 
 #rec9{
+    background-color:darkblue;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    height: 30%;
+}
+/*
+#rec10{
+    background-color:darkblue;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+
+#rec11{
+    background-color:darkblue;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+}
+
+#rec12{
     background-color:darkblue;
     color: white;
     font-size: 20px;
