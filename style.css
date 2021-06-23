@@ -1,50 +1,49 @@
 .grid {
     padding-top: 40px;
     display: grid;
-    width: 100%;
-    max-width: 1100px;
+    width: 100%; /*100% de la page*/
     margin: 0 auto;
     grid-template-columns: repeat(4, 1fr);
-    grid-gap: 20px;
+    grid-gap: 3%;
 }
 
 #rec1{
     background-color:darkred;
     color: white;
     font-size: 20px;
-    padding: 20px;
-    height: 75%;
+    padding: 5%;
+    height: 50%;
 }
 
 #rec2{
     background-color:rgb(0, 255, 136); 
     color: white;
     font-size: 20px;
-    padding: 20px;
-    height: 75%;
+    padding: 5%;
+    height: 50%;
 }
 
 #rec3{
     background-color:turquoise;
     color: white;
     font-size: 20px;
-    padding: 20px;
-    height: 75%;
+    padding: 5%;
+    height: 50%;
 }
 
 #rec4{
     background-color:violet;
     color: white;
     font-size: 20px;
-    padding: 20px;
-    height: 75%;
+    padding: 5%;
+    height: 50%;
 }
 
 #rec5{
     background-color:orange;
     color: white;
     font-size: 20px;
-    padding: 20px;
+    padding: 5%;
     height: 20%;
 }
 
@@ -52,32 +51,32 @@
     background-color:blue;
     color: white;
     font-size: 20px;
-    padding: 20px;
-    height: 20%;
+    padding: 5%;
+    height: 45%;
 }
 
 #rec7{
     background-color:lightcoral;
     color: white;
     font-size: 20px;
-    padding: 20px;
-    height: 20%;
+    padding: 5%;
+    height: 10%;
 }
 
 #rec8{
     background-color:green;
     color: white;
-    font-size: 20px;
-    padding: 20px;
-    height: 30%;
+    font-size: 10px;
+    padding: 5%;
+    height: 15%;
 }
 
 #rec9{
     background-color:darkblue;
     color: white;
     font-size: 20px;
-    padding: 20px;
-    height: 30%;
+    padding: 10%;
+    height: 7%;
 }
 /*
 #rec10{
