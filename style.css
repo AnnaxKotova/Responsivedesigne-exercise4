@@ -1,10 +1,10 @@
 .grid {
-    padding-top: 40px;
+    padding-top: 40px; /* Phil 10%*/
     display: grid;
     width: 100%; /*100% de la page*/
-    margin: 0 auto;
+    margin: 0 auto; /*sans zero*/
     grid-template-columns: repeat(4, 1fr);
-    grid-gap: 3%;
+    grid-gap: 3%; /*1%*/
 }
 
 #rec1{
@@ -78,7 +78,7 @@
     padding: 10%;
     height: 7%;
 }
-/*
+
 #rec10{
     background-color:darkblue;
     color: white;
